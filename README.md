@@ -1,68 +1,43 @@
-<!--
-**MdRoniAhamed/MdRoniAhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Roni Ahamed</h1>
+<h3 align="center">Assalamualikum!, I'm Roni Ahamed. I'm a passionate backend developer with a strong background knowledge in database management system, Python, C++, and the Django REST Framework. I specialize in developing scalable, efficient APIs and backend systems that ensure seamless user experiences. I’m always exploring new technologies and techniques to ensure my work meets the latest standards and delivers real value to users and clients.</h3>
 
-Here are some ideas to get you started:
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roniahamed&label=Profile%20views&color=0e75b6&style=flat" alt="roniahamed" /> </p>
 
-### Hi there, I'm MD Roni Ahamed 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roniahamed" alt="roniahamed" /></a> </p>
 
-## I'm a Learner, Problem Solver, Developer!!
-<!--
-- 🥅 2022 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
-- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
-- 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
-- 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
--->
+<p align="left"> <a href="https://twitter.com/roniahamed003" target="blank"><img src="https://img.shields.io/twitter/follow/roniahamed003?logo=twitter&style=for-the-badge" alt="roniahamed003" /></a> </p>
 
-### Connect with me:
+- 🌱 I’m currently learning **Java Scripts**
 
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+- 💬 Ask me about **c, cpp and python**
 
-<a href="https://www.linkedin.com/in/md-roni-ahamed/">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-<a href="https://leetcode.com/roniahamed/">
-    <img align="left"  width="32px" src="https://github.com/MdRoniAhamed/logo/blob/main/LeetCode_logo_rvs.png" alt="LeetCode"/>
-</a>
+- 📫 How to reach me **mdroniahamed56@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=drive_link](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=drive_link)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@roniahamed" height="30" width="40" /></a>
+<a href="https://twitter.com/roniahamed003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roniahamed003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniahamed" height="30" width="40" /></a>
+<a href="https://fb.com/roniahamed03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roniahamed03" height="30" width="40" /></a>
+<a href="https://medium.com/@roniahamed003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roniahamed003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roniahamed" height="30" width="40" /></a>
+<a href="/https://studio.buymeacoffee.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://studio.buymeacoffee.com/dashboard" height="30" width="40" /></a>
 </p>
-<br/>
-<br/>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🌱 I’m currently learning ... JavaScript <br/>
-- 💬 Ask me about ... Anything <br/>
-- 😇 I really love to meet with new people<br/>
- <br/>
-### Languages and Tools:
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/roniahamed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roniahamed" /></a></p><br><br>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roniahamed&show_icons=true&locale=en&layout=compact" alt="roniahamed" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&locale=en" alt="roniahamed" /></p>
 
-<br />
-<br />
-
----
-  ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MdRoniAhamed&show_icons=true&theme=tokyonight" />
-<br />
-
-<b>&#128200; Competitive Programming</b>
-<br />
-<br/>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=roniahamed&theme=dark)](https://github.com/roniahamed/leetcode-stats)
-<br/>
-![Badge](https://cp-logo.vercel.app/leetcode/roniahamed)
-<br/>
-
----
-  
-  <img align="center"  alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRoniAhamed&show_icons=true" />
-
-
-[facebook]: https://web.facebook.com/roniahamed00/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&" alt="roniahamed" /></p>
