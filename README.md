@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/md-roni-ahamed/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-<a href="https://leetcode.com/who-i-am/">
+<a href="https://leetcode.com/roniahamed/">
     <img align="left"  width="32px" src="https://github.com/MdRoniAhamed/logo/blob/main/LeetCode_logo_rvs.png" alt="LeetCode"/>
 </a>
 </p>
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <b>&#128200; Competitive Programming</b>
 <br />
 <br/>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=who-i-am&theme=dark)](https://github.com/who-i-am/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=roniahamed&theme=dark)](https://github.com/roniahamed/leetcode-stats)
 <br/>
-![Badge](https://cp-logo.vercel.app/leetcode/who-i-am)
+![Badge](https://cp-logo.vercel.app/leetcode/roniahamed)
 <br/>
 
 ---
