@@ -1,42 +1,32 @@
-<!-- Name --> 
-<p align="center"> <h1 align="center"> Hi, I am Roni Ahamed <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
 
-<!-- Social Media --> 
-<p align="center">
-<a href="https://www.linkedin.com/in/roniahamed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/roniahamed/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/roniahamed"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://x.com/roniahamed003/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/roni_ahamed0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:mdroniahamed56@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@roniahamed" height="30" width="40" /></a>
-<a href="https://twitter.com/roniahamed003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roniahamed003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniahamed" height="30" width="40" /></a>
-<a href="https://fb.com/roniahamed03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roniahamed03" height="30" width="40" /></a>
-<a href="https://medium.com/@roniahamed003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roniahamed003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roniahamed" height="30" width="40" /></a>
-<a href="https://buymeacoffee.com/roniahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="roniahamed" height="30" width="40" /></a>
-</p>
-  -->
-</p>
-<!-- Profile View section -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roniahamed&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22roniahamed" /> </p>
+<div align="center">
+  
+  <h1>
+    Hi there, I'm Roni Ahamed
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
+  </h1>
+  
+  <h3>Backend Developer specialising in Python, Django, and REST APIs</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/roniahamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://leetcode.com/roniahamed/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+    <a href="https://github.com/roniahamed"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="mailto:mdroniahamed56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
 
-<!-- Description about me -->
-<h2 align="center"> 🤔 About me 👨‍💻 </h2>
-Assalamualikum!, I'm Roni Ahamed. I'm a passionate backend developer with a strong background knowledge in database management systems, Python, C++, and the Django REST Framework. I specialize in developing scalable, efficient APIs and backend systems that ensure seamless user experiences. I’m always exploring new technologies and techniques to ensure my work meets the latest standards and delivers real value to users and clients.
+</div>
 
-<!-- My Favorite Technologies --> 
+---
 
-## My favorite tools and technologies ⚙️
+### 🤔 About Me
+As a Backend Developer, I bring **over 3 years of experience** to the table, specialising in building scalable and efficient applications with **Python** and the **Django REST Framework**. My goal is to leverage my solid foundation in data structures, algorithms, and database management to architect robust backend systems that solve real-world problems. I am dedicated to writing clean, maintainable code and continuously learning new technologies to deliver high-quality software solutions.
 
-> Tools and technologies that I have worked with and am interested in
+---
 
+### 🚀 My Tech Stack
+
+Here are the primary tools and technologies I work with:
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -110,25 +100,85 @@ Assalamualikum!, I'm Roni Ahamed. I'm a passionate backend developer with a stro
   </tr>
 </table>
 
-<!-- GitHub stats section -->
 
-## 📊 Github Analytics 
+### **Specializations**
+- **RESTful API Development** - JWT, OAuth, Authentication
+- **Database Management** - PostgreSQL, MySQL, Query Optimisation
+- **Backend Architecture** - Scalable system design, API documentation
+- **Problem Solving** - Data Structures & Algorithms (400+ problems solved)
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+---
+
+---
+
+### 🔭 What I'm Currently Working On
+
+-   **FitCore (Fitness Application):** Designing and building the backend for a comprehensive fitness tracking app using Django REST Framework. The focus is on creating a scalable foundation for core features, such as secure user authentication, workout logging, and progress tracking, with clean, well-documented RESTful APIs.
+-   **Community Building:** I run a Discord community and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
+
+### 🌱 My Learning Goals
+
+-   Diving deeper into **Docker** and **Kubernetes** for containerization and orchestration.
+-   Exploring **cloud deployment** with AWS (EC2, S3, RDS).
+-   Gaining proficiency in a modern frontend framework like **React** to better understand full-stack architecture.
+
+---
+
+### 📊 My GitHub Analytics
+
 <p align="center">
-  <br/>
-  <a href="https://github.com/roniahamed/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=roniahamed&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/roniahamed/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Roni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&" alt="" /></p> 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<!-- LeetCode Analytics -->
+<p align="center">
+  <a href="https://github.com/roniahamed">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=roniahamed&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+  </a>
+</p>
 
-## ♨️ &nbsp;DSA Analytics
+---
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-<p aligin="center" > <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;"> </p>   
+### 🎯 DSA & Problem Solving
 
+I believe a strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=activity" alt="Roni's LeetCode Stats" width="400"/>
+</p>
+
+-   **LeetCode:** Solved 250+ problems with a 200+ day streak.
+-   **Codeforces:** Solved 150+ problems and participated in 12+ contests.
+-   **Achievement:** Secured 27th Rank in the Intra Phitron Programming Contest (September 2022).
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, collaboration opportunities, or just chatting about tech. Feel free to reach out!
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/roniahamed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roniahamed-0A66C2?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://x.com/roniahamed003/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@roniahamed003-1DA1F2?style=for-the-badge&logo=twitter"></a>
+    <a href="mailto:mdroniahamed56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdroniahamed56@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+  </p>
+
+  <a href="https://tidycal.com/roniahamed/15-minute-meeting" target="_blank">
+    <img alt="Book a Meeting" src="https://img.shields.io/badge/Book_a_15_min_Meeting-23b063?style=for-the-badge&logo=calendar&logoColor=white">
+  </a>
+  
+
+  **[📄 View My Resume](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)** 
+
+  
+</div>
