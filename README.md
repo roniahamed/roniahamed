@@ -114,7 +114,7 @@ Here are the primary tools and technologies I work with:
 ### 🔭 What I'm Currently Working On
 
 -   **FitCore (Fitness Application):** Designing and building the backend for a comprehensive fitness tracking app using Django REST Framework. The focus is on creating a scalable foundation for core features, such as secure user authentication, workout logging, and progress tracking, with clean, well-documented RESTful APIs.
--   **Community Building:** I run a Discord community and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
+-   **Community Building:** I run a **[Discord community](https://discord.gg/7ya6xCfwnY)** and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
 
 ### 🌱 My Learning Goals
 
