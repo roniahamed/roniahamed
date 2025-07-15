@@ -11,7 +11,7 @@
   <p>
     <a href="https://www.linkedin.com/in/roniahamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://leetcode.com/roniahamed/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-    <a href="https://github.com/roniahamed"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/roniahamed/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:mdroniahamed56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 
@@ -127,15 +127,15 @@ Here are the primary tools and technologies I work with:
 ### 📊 My GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/roniahamed">
     <img alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/roniahamed/">
     <img alt="Roni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com">
+  <a href="https://github.com/roniahamed/">
     <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
   </a>
 </p>
@@ -150,7 +150,7 @@ Here are the primary tools and technologies I work with:
 
 ### 🎯 DSA & Problem Solving
 
-I believe a strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
+A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=activity" alt="Roni's LeetCode Stats" width="400"/>
