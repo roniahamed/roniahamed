@@ -136,7 +136,7 @@ Here are the primary tools and technologies I work with:
 </p>
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
+    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
