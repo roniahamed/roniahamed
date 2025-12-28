@@ -128,15 +128,19 @@ Here are the primary tools and technologies I work with:
 
 <p align="center">
   <a href="https://github.com/roniahamed">
-    <img alt="Roni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+    <!-- Top Star -->
   </a>
   <a href="https://github.com/roniahamed/">
-    <img alt="Roni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+    <!-- Top Language -->
+    
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/roniahamed/">
-    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" />
+    <!-- <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" /> -->
+     <img alt="" src="https://nirzak-streak-stats.vercel.app/?user=roniahamed&theme=dark&hide_border=false" />
   </a>
 </p>
 
