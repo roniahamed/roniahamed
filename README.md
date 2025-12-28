@@ -113,7 +113,7 @@ Here are the primary tools and technologies I work with:
 
 ### 🔭 What I'm Currently Working On
 
--   **FitCore (Fitness Application):** Designing and building the backend for a comprehensive fitness tracking app using Django REST Framework. The focus is on creating a scalable foundation for core features, such as secure user authentication, workout logging, and progress tracking, with clean, well-documented RESTful APIs.
+-   **Join Venture AI:** I am currently working as a Junior Backend Developer at Join Venture AI (JVAI), where my primary focus is on building and scaling backend systems using Python and Django REST Framework. My day-to-day responsibilities include designing and maintaining clean, secure, and well-documented RESTful APIs, as well as integrating third-party services such as Stripe for payments and WebSocket and Celery for real-time and asynchronous processing.Overall, my current work centers on backend engineering, system scalability, API performance optimization, and production-ready deployment using tools such as Docker, Nginx, Gunicorn, and Linux servers, while continuously improving my problem-solving and system design skills.
 -   **Community Building:** I run a **[Discord community](https://discord.gg/7ya6xCfwnY)** and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
 
 ### 🌱 My Learning Goals
