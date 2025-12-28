@@ -156,11 +156,13 @@ Here are the primary tools and technologies I work with:
 
 A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
 
-<a href="https://leetcode.com/u/roniahamed/" target="_blank">
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=activity" alt="Roni's LeetCode Stats" width="400"/>
+  <a href="https://leetcode.com/u/roniahamed/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=activity" alt="" width="400" />
+  </a>
 </p>
-</a>
+
 
 -   **LeetCode:** Solved 250+ problems with a 200+ day streak.
 -   **Codeforces:** Solved 150+ problems and participated in 12+ contests.
