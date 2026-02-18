@@ -129,34 +129,6 @@ Here are the primary tools and technologies I work with:
 
 ---
 
-### 📊 My GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/roniahamed">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=roniahamed&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
-    <!-- Top Star -->
-  </a>
-  <a href="https://github.com/roniahamed/">
-    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniahamed&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-    <!-- Top Language -->
-    
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/roniahamed/">
-    <!-- <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" /> -->
-     <img alt="" src="https://nirzak-streak-stats.vercel.app/?user=roniahamed&theme=dark&hide_border=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/roniahamed">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=roniahamed&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
-  </a>
-</p>
-
----
-
 ### 🎯 DSA & Problem Solving
 
 A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
