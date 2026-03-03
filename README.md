@@ -2,7 +2,7 @@
 
 # Roni Ahamed | Backend Developer
 
-### I help startups and businesses build reliable backend systems with Python and Django
+### I build Django backend systems for SaaS, booking platforms, and business tools
 
 <a href="https://tidycal.com/roniahamed/15-minute-meeting" target="_blank">
   <img alt="Book a Meeting" src="https://img.shields.io/badge/Book%20a%2015%20min%20Call-23b063?style=for-the-badge&logo=googlecalendar&logoColor=white" />
@@ -20,19 +20,19 @@
 
 ## About Me
 
-I am a backend developer who builds secure and reliable web APIs.
+I help startups launch SaaS, booking, and business platforms with secure APIs, clean database design, and smooth production deployment.
 
-I work with startups and business teams to turn ideas into working backend systems. I start by understanding the business goal, then build the API in a clean and practical way.
+I work with startups and business teams to turn ideas into live products. I first understand your business goal, then build APIs that are easy to scale and easy to maintain.
 
-I keep communication clear, give regular updates, and deliver code that is easy to maintain.
+You get clear updates, on-time milestones, and code your team can continue without confusion.
 
-I focus on:
-- clean backend structure
-- secure login and access control
-- fast database queries
-- clean and testable code
+What this means for your project:
+- stable backend structure, so new features are easier to add
+- secure login and access control, so user data stays protected
+- faster database queries, so your app feels quicker to users
+- clean and testable code, so future maintenance costs stay lower
 
-If you need backend help from planning to deployment, I can support you end to end.
+If you need backend help from planning to deployment, I can handle it end to end.
 
 ---
 
@@ -118,19 +118,46 @@ If you need backend help from planning to deployment, I can support you end to e
 
 ---
 
+## Simple Pricing Model
+
+### 1) MVP Build
+- Best for: new startup product or first backend version
+- Includes: API planning, core features, authentication, database setup, deployment
+- Delivery style: milestone-based (weekly updates)
+- Client benefit: you launch faster with a clear technical foundation
+
+### 2) API Upgrade
+- Best for: existing backend with bugs, slow queries, or messy structure
+- Includes: code cleanup, performance improvement, endpoint standardization, docs update
+- Delivery style: audit + fix plan + implementation
+- Client benefit: fewer bugs, better speed, and easier future development
+
+### 3) Deployment Support
+- Best for: teams who need help to launch or stabilize production
+- Includes: Docker setup, server deploy, Nginx/Gunicorn config, release support
+- Delivery style: setup + handover + support window
+- Client benefit: safer release process and more stable production uptime
+
+Note: Final cost depends on project scope, timeline, and feature complexity.
+
+---
+
 ## Client Engagement Process
 
 ### 1) Discovery
 - We discuss your product idea, business goal, and timeline
 - I review your requirements and suggest the best backend plan
+- Benefit: you avoid wrong technical decisions early
 
 ### 2) Build
 - I develop the backend in small milestones
 - You get regular updates and demo-ready progress
+- Benefit: you can track progress clearly and reduce delivery risk
 
 ### 3) Delivery
 - I deliver clean code, API docs, and deployment support
 - After delivery, you get 3 months of free support
+- Benefit: your team gets a smooth handover and safer post-launch period
 
 ---
 
@@ -144,10 +171,10 @@ If you need backend help from planning to deployment, I can support you end to e
 
 ## Why Clients Work With Me
 
-- Clear communication and regular progress updates
-- Business-focused and practical backend decisions
-- Fast delivery with clean code quality
-- Strong problem-solving mindset
+- You always know project status with clear communication and updates
+- You get business-focused backend decisions, not unnecessary complexity
+- You get fast delivery with maintainable code quality
+- You get dependable support during development and after launch
 
 ---
 
