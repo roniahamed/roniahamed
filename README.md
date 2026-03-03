@@ -51,6 +51,7 @@ If you need backend help from planning to deployment, I can handle it end to end
 - Built the full backend from scratch for a villa rental and sales platform with role-based access (Admin, Manager, Agent, Customer)
 - Added full booking flow with date conflict checks, Google Calendar sync, and iCal support
 - Added real-time notifications and background email processing with Celery and AWS SES
+- Result: Property owners and agents can manage bookings faster and avoid double-booking issues.
 
 ### 2) CheckIn (Healthcare Queue System)
 <img alt="Production" src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&logo=vercel&logoColor=white" />
@@ -61,6 +62,7 @@ If you need backend help from planning to deployment, I can handle it end to end
 - Built the full backend from scratch for patient queue and check-in workflow
 - Added real-time updates with WebSocket and background tasks with Celery
 - Prepared API docs and Postman collection for easy handover
+- Result: Clinic staff can manage patient flow with less manual confusion and faster check-in operations.
 
 ### 3) ExtraHandenAI (Assessment Platform)
 <a href="https://extrahanden.ai/" target="_blank">
@@ -75,6 +77,7 @@ If you need backend help from planning to deployment, I can handle it end to end
 - Built the backend from scratch for quiz and assessment flow with question bank and bulk upload support
 - Added secure token-based authentication and access control
 - Optimized database queries for large datasets (100,000+ records)
+- Result: Teams can run large-scale assessments more smoothly with faster response and easier content management.
 
 ---
 
