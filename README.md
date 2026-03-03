@@ -1,169 +1,171 @@
-
 <div align="center">
-  
-  <h1>
-    Hi there, I'm Roni Ahamed
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
-  </h1>
-  
-  <h3>Backend Developer specialising in Python, Django, and REST APIs</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/roniahamed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://leetcode.com/roniahamed/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-    <a href="https://github.com/roniahamed/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="mailto:mdroniahamed56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </p>
+
+# Roni Ahamed | Backend Developer
+
+### I help startups and businesses build reliable backend systems with Python and Django
+
+<a href="https://tidycal.com/roniahamed/15-minute-meeting" target="_blank">
+  <img alt="Book a Meeting" src="https://img.shields.io/badge/Book%20a%2015%20min%20Call-23b063?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+</a>
+<a href="mailto:mdroniahamed56@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Now-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/roniahamed/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roniahamed-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
 ---
 
-### 🤔 About Me
-As a Backend Developer, I bring **over 3 years of experience** to the table, specialising in building scalable and efficient applications with **Python** and the **Django REST Framework**. My goal is to leverage my solid foundation in data structures, algorithms, and database management to architect robust backend systems that solve real-world problems. I am dedicated to writing clean, maintainable code and continuously learning new technologies to deliver high-quality software solutions.
+## About Me
+
+I am a backend developer who builds secure and reliable web APIs.
+
+I work with startups and business teams to turn ideas into working backend systems. I start by understanding the business goal, then build the API in a clean and practical way.
+
+I keep communication clear, give regular updates, and deliver code that is easy to maintain.
+
+I focus on:
+- clean backend structure
+- secure login and access control
+- fast database queries
+- clean and testable code
+
+If you need backend help from planning to deployment, I can support you end to end.
 
 ---
 
-### 🚀 My Tech Stack
+## Featured Projects
 
-Here are the primary tools and technologies I work with:
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/c-gif-logo.gif" width="65" height="65" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/sql.gif" width="48" height="48" alt="jquery" />
-      <br>SQL
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/mysql.webp" width="48" height="48" alt="jquery" />
-      <br>MySQL
-    </td>
-        <td align="center" width="96">
-        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/vs-code.gif" width="48" height="48" alt="jquery" />
-      <br>Vs-Code
-    </td>
-  </tr>
-</table>
+### 1) Eastmond Villas (Production)
+<a href="https://www.eastmondvillas.com/" target="_blank">
+  <img alt="Production" src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.eastmondvillas.com/" target="_blank">
+  <img alt="Live" src="https://img.shields.io/badge/Live-Visit%20Project-0a66c2?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
 
+**Stack:** Django REST Framework, PostgreSQL, Redis, Celery, WebSocket, AWS SES, JWT  
+**Highlights:**
+- Built the full backend from scratch for a villa rental and sales platform with role-based access (Admin, Manager, Agent, Customer)
+- Added full booking flow with date conflict checks, Google Calendar sync, and iCal support
+- Added real-time notifications and background email processing with Celery and AWS SES
 
-### **Specializations**
-- **RESTful API Development** - JWT, OAuth, Authentication
-- **Database Management** - PostgreSQL, MySQL, Query Optimisation
-- **Backend Architecture** - Scalable system design, API documentation
-- **Problem Solving** - Data Structures & Algorithms (400+ problems solved)
+### 2) CheckIn (Healthcare Queue System)
+<img alt="Production" src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="Live" src="https://img.shields.io/badge/Live-Private%20Deployment-6e7781?style=flat-square&logo=shield&logoColor=white" />
+
+**Stack:** Django REST Framework, PostgreSQL, WebSocket, Celery  
+**Highlights:**
+- Built the full backend from scratch for patient queue and check-in workflow
+- Added real-time updates with WebSocket and background tasks with Celery
+- Prepared API docs and Postman collection for easy handover
+
+### 3) ExtraHandenAI (Assessment Platform)
+<a href="https://extrahanden.ai/" target="_blank">
+  <img alt="Production" src="https://img.shields.io/badge/Status-Production-2ea043?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://extrahanden.ai/" target="_blank">
+  <img alt="Live" src="https://img.shields.io/badge/Live-Visit%20Project-0a66c2?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+**Stack:** Django REST Framework, PostgreSQL  
+**Highlights:**
+- Built the backend from scratch for quiz and assessment flow with question bank and bulk upload support
+- Added secure token-based authentication and access control
+- Optimized database queries for large datasets (100,000+ records)
 
 ---
 
+## Services I Provide
+
+### 1) Backend API Development
+- Plan and build complete REST APIs using Django REST Framework
+- Add secure authentication (JWT, session login, roles and permissions)
+- Integrate third-party services like payment, email, and external APIs
+- Prepare API docs so your team can use and maintain the system easily
+
+**What you get:**
+- API structure planning based on your product needs
+- Clean endpoint design with request/response standards
+- Admin-ready backend panel and role-based access (if needed)
+- Handover with docs and setup guide for your team
+
+### 2) Existing Backend Improvement
+- Improve slow APIs with query fixes, caching, and clean refactoring
+- Fix bugs and stabilize existing backend systems
+- Clean up endpoints and make API responses more consistent
+- Improve database performance for better speed and scale
+
+**What you get:**
+- Full backend review with issue list and priority plan
+- Code cleanup for better readability and long-term maintenance
+- Better API speed and fewer production errors
+- Clear report of what was fixed and what to improve next
+
+### 3) Deployment & DevOps Support
+- Set up Docker-based deployment flow
+- Deploy on Linux server with Nginx and Gunicorn
+- Configure logs and production settings for stable runtime
+- Support release updates, hotfixes, and maintenance
+
+**What you get:**
+- Production deployment checklist and server setup
+- Safe release process for future updates
+- Logging and basic monitoring setup
+- Post-launch support for fixes and small changes
+
 ---
 
-### 🔭 What I'm Currently Working On
+## Client Engagement Process
 
-  **Join Venture AI:**
--    I am currently working as a Junior Backend Developer, where I design, develop, and maintain backend services using Python and Django REST Framework. My responsibilities include building secure and scalable RESTful APIs, implementing authentication and authorization mechanisms, and integrating third-party services such as payment gateways and real-time communication systems.
--    I actively work on optimizing backend performance through efficient database design, query optimization, and caching strategies. I also handle asynchronous task processing and real-time features, ensuring reliability and scalability in production environments.
+### 1) Discovery
+- We discuss your product idea, business goal, and timeline
+- I review your requirements and suggest the best backend plan
 
--    In addition, I contribute to deploying and maintaining production-ready applications using Docker, Nginx, Gunicorn, and Linux-based servers, following industry best practices for security, performance, and maintainability. My current focus is on writing clean, testable code and continuously improving system design and backend architecture skills.
-  **Community Building:**
--    I run a **[Discord community](https://discord.gg/7ya6xCfwnY)** and GitHub organisation called **[Refresh Your DSA](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving)**, where we help each other improve our Data Structures and Algorithms skills.
+### 2) Build
+- I develop the backend in small milestones
+- You get regular updates and demo-ready progress
 
-### 🌱 My Learning Goals
-
--   Diving deeper into **Docker** and **Kubernetes** for containerization and orchestration.
--   Exploring **cloud deployment** with AWS (EC2, S3, RDS).
--   Gaining proficiency in a modern frontend framework like **React** to better understand full-stack architecture.
+### 3) Delivery
+- I deliver clean code, API docs, and deployment support
+- After delivery, you get 3 months of free support
 
 ---
 
-### 🎯 DSA & Problem Solving
+## Delivery & Support
 
-A strong foundation in Data Structures and Algorithms is crucial for a developer. I actively solve problems on various platforms to keep my skills sharp.
-
-
-<p align="center">
-  <a href="https://leetcode.com/u/roniahamed/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/roniahamed?theme=dark&font=Noto%20Sans&ext=activity" alt="" width="400" />
-  </a>
-</p>
-
-
--   **LeetCode:** Solved 250+ problems with a 200+ day streak.
--   **Codeforces:** Solved 150+ problems and participated in 12+ contests.
--   **Achievement:** Secured 27th Rank in the Intra Phitron Programming Contest (September 2022).
+- Clean and ready-to-use code delivery
+- API documentation and handover support for your team
+- **After project completion, I provide 3 months of free support** for fixes and small improvements
 
 ---
 
-### 📫 Let's Connect!
+## Why Clients Work With Me
 
-I'm always open to discussing new projects, collaboration opportunities, or just chatting about tech. Feel free to reach out!
+- Clear communication and regular progress updates
+- Business-focused and practical backend decisions
+- Fast delivery with clean code quality
+- Strong problem-solving mindset
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/roniahamed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roniahamed-0A66C2?style=for-the-badge&logo=linkedin"></a>
-    <a href="https://x.com/roniahamed003/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@roniahamed003-1DA1F2?style=for-the-badge&logo=twitter"></a>
-    <a href="mailto:mdroniahamed56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdroniahamed56@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
-  </p>
+---
 
-  <a href="https://tidycal.com/roniahamed/15-minute-meeting" target="_blank">
-    <img alt="Book a Meeting" src="https://img.shields.io/badge/Book_a_15_min_Meeting-23b063?style=for-the-badge&logo=calendar&logoColor=white">
-  </a>
-  
+## Core Tech Stack
 
-  **[📄 View My Resume](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)** 
+**Programming:** Python, JavaScript, C, C++, SQL, HTML, CSS  
+**Backend & Frameworks:** Django, Django REST Framework, OAuth2, JWT, WebSocket, Celery, Redis, Django Channels, drf-spectacular  
+**Databases:** PostgreSQL, MySQL  
+**APIs & Integrations:** RESTful APIs, Stripe, Cloudinary, Google Calendar API, iCal, AWS SES  
+**DevOps & Deployment:** Git, GitHub, Postman, Docker, Linux Server, Nginx, Gunicorn, ASGI
 
-  
-</div>
+---
+
+## Let’s Build Your Project
+
+If you are looking for a backend developer for your startup, SaaS, or business platform, let’s discuss your project.
+
+- Book a call: [15-minute meeting](https://tidycal.com/roniahamed/15-minute-meeting)
+- Email: [mdroniahamed56@gmail.com](mailto:mdroniahamed56@gmail.com)
+- LinkedIn: [linkedin.com/in/roniahamed](https://www.linkedin.com/in/roniahamed/)
+- Resume: [View Resume](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)
