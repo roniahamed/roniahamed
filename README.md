@@ -1,194 +1,350 @@
+<!-- HEADER WAVE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0f766e&height=210&section=header&text=MD%20Roni%20Ahamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0f766e&height=210&section=header&text=MD%20Roni%20Ahamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
 </picture>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
 
 <a href="https://www.roniahamed.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=22&pause=1300&color=38BDF8&center=true&vCenter=true&width=760&lines=Production-ready+backend+systems;API+design+%7C+async+processing+%7C+real-time+workflows;Deployment+with+Docker%2C+Nginx%2C+Gunicorn%2C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+Django+backends;REST+APIs+%7C+WebSockets+%7C+Celery+%7C+Docker;From+DB+schema+to+Linux+VPS+deployment;Open+to+Full-time+%26+Freelance" alt="Typing SVG" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-roniahamed.com-0f172a?style=for-the-badge)](https://www.roniahamed.com/)
-[![Resume](https://img.shields.io/badge/Resume-View-1d4ed8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roni%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roniahamed/)
-[![GitHub](https://img.shields.io/badge/GitHub-roniahamed-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roniahamed/)
-
-<br/>
-
-[![Discuss a Project](https://img.shields.io/badge/Discuss%20a%20Project-Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdroniahamed56@gmail.com?subject=Backend%20Project%20Inquiry)
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-TidyCal-1d4ed8?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://tidycal.com/roniahamed/15-minute-meeting)
-[![Open to Roles](https://img.shields.io/badge/Open%20to-Backend%20Roles-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roniahamed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-roniahamed.com-7C3AED?style=for-the-badge)](https://www.roniahamed.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roniahamed/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdroniahamed56@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)
+[![Book a Call](https://img.shields.io/badge/Book%2015min%20Call-Schedule-23B063?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://tidycal.com/roniahamed/15-minute-meeting)
 
 <br/>
 
-[![Experience](https://img.shields.io/badge/Production%20Experience-1.5%2B%20Years-0f172a?style=flat-square)](#)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-400%2B-1d4ed8?style=flat-square)](#)
-[![Completion Rate](https://img.shields.io/badge/Student%20Project%20Completion-75%25%2B-0f766e?style=flat-square)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=roniahamed&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/roniahamed?color=7C3AED&style=flat-square&label=Followers)
 
 </div>
 
+---
+
+## About Me
+
 <table width="100%">
   <tr>
-    <td valign="top" width="56%">
+    <td valign="top" width="52%">
 
-## About
+```console
+┌──(roni@backend-dev)-[~]
+└─$ whoami
+MD Roni Ahamed
+Python Backend Engineer
 
-Backend developer with **1.5+ years of production experience** building APIs and backend systems for live client products. My work centers on **reliability, performance, async processing, real-time communication, and maintainable deployment**.
+┌──(roni@backend-dev)-[~]
+└─$ cat experience.txt
+1.5+ years in production systems
 
-I am most useful when a product needs backend ownership from **data modeling and API design** to **integration, optimization, and production delivery**.
+┌──(roni@backend-dev)-[~]
+└─$ cat focus.txt
+Django
+DRF
+PostgreSQL
+Redis
+Celery
+WebSockets
 
-I work best with:
-- startups building SaaS, booking, and internal business systems
-- clients who need a backend engineer who can own delivery end to end
-- recruiters hiring for Python and Django backend roles
+┌──(roni@backend-dev)-[~]
+└─$ cat deployment.txt
+Docker
+Nginx
+Gunicorn
+Linux VPS
+AWS
+```
 
     </td>
-    <td valign="top" width="44%">
+    <td valign="top" width="48%">
+
+Backend developer focused on **production-grade APIs**, **real-time systems**, and **reliable deployment**. I work on backend problems that directly affect delivery quality: query performance, async workflows, role-based access, third-party integrations, and systems that stay maintainable in production.
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Building-7C3AED?style=flat-square" alt="Building" /></td>
+    <td>SaaS and booking platforms with Django</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Strength-0A66C2?style=flat-square" alt="Strength" /></td>
+    <td>System design, async architecture, deployment</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Core-23B063?style=flat-square" alt="Core" /></td>
+    <td>Django, DRF, PostgreSQL, WebSockets, Celery, Docker</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Track%20Record-D14836?style=flat-square" alt="Track Record" /></td>
+    <td>Trained 180+ students before moving full-time into backend engineering</td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/backend-terminal-0f766e?style=for-the-badge&logo=gnubash&logoColor=white" alt="terminal" />
+**Languages**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<a href="https://www.roniahamed.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1100&color=E2E8F0&center=false&vCenter=true&width=500&height=160&lines=%24+whoami;MD+Roni+Ahamed+%7C+Python+Backend+Developer;%24+cat+focus.txt;Django+%C2%B7+DRF+%C2%B7+PostgreSQL+%C2%B7+Redis;%24+cat+delivery.txt;Reliable+APIs+%C2%B7+Async+jobs+%C2%B7+Real-time+systems;%24+cat+deployment.txt;Docker+%C2%B7+Nginx+%C2%B7+Gunicorn+%C2%B7+AWS" alt="Terminal animation" />
-</a>
+**Backend and Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0A66C2?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4F46E5?style=for-the-badge&logo=auth0&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps and Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-    </td>
-  </tr>
-</table>
+---
 
-## Core Stack
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend Foundations</strong><br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql" alt="Backend Foundations" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Django%20REST%20Framework-DC2626?style=flat-square" alt="Django REST Framework" />
-      </div>
-      <br/>
-      <sub>Python, Django, DRF, PostgreSQL, MySQL</sub>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Async and Real-Time</strong><br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Celery-0f766e?style=flat-square" alt="Celery" />
-        <img src="https://img.shields.io/badge/WebSockets-1d4ed8?style=flat-square" alt="WebSockets" />
-        <img src="https://img.shields.io/badge/Django%20Channels-334155?style=flat-square" alt="Django Channels" />
-      </div>
-      <br/>
-      <sub>Redis, Celery, WebSockets, Django Channels, background processing</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Deployment and Tools</strong><br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman,nginx" alt="Deployment and Tools" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Gunicorn-0f172a?style=flat-square" alt="Gunicorn" />
-      </div>
-      <br/>
-      <sub>Docker, AWS, Linux VPS, Nginx, Gunicorn, Git, Postman</sub>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Security and Integrations</strong><br/><br/>
-      <div align="center">
-        <img src="https://img.shields.io/badge/OAuth2-1d4ed8?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2" />
-        <img src="https://img.shields.io/badge/JWT-334155?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-        <img src="https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
-        <img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API" />
-      </div>
-      <br/>
-      <sub>OAuth2, JWT, Stripe, Google Calendar API, Google Maps API</sub>
-    </td>
-  </tr>
-</table>
-
-## Selected Projects
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Eastmond Villas</strong><br/>
-      <sub>Rental platform backend</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Production-0f766e?style=flat-square" alt="Production" />
-      <img src="https://img.shields.io/badge/Focus-Booking%20Reliability-1d4ed8?style=flat-square" alt="Booking Reliability" />
-      <br/><br/>
-      Built a production booking backend with role-based access control, booking conflict prevention, Google Calendar sync, iCal support, and async notifications. The work centered on keeping availability accurate and multi-role operations reliable.<br/><br/>
-      <code>Django REST Framework</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>WebSockets</code><br/><br/>
-      <a href="https://www.eastmondvillas.com/">Live Site</a>
-    </td>
-    <td valign="top" width="33%">
-      <strong>CheckIn</strong><br/>
-      <sub>Healthcare queue backend</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Private%20Deployment-334155?style=flat-square" alt="Private Deployment" />
-      <img src="https://img.shields.io/badge/Focus-Real--Time%20Operations-1d4ed8?style=flat-square" alt="Real-Time Operations" />
-      <br/><br/>
-      Built a patient queue and check-in backend with real-time updates and background processing. The system was designed so clinic staff could track patient flow live and reduce operational delays.<br/><br/>
-      <code>Django REST Framework</code> <code>PostgreSQL</code> <code>WebSockets</code> <code>Celery</code><br/><br/>
-      Private deployment
-    </td>
-    <td valign="top" width="33%">
-      <strong>ExtraHandenAI</strong><br/>
-      <sub>Assessment platform backend</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Production-0f766e?style=flat-square" alt="Production" />
-      <img src="https://img.shields.io/badge/Focus-Query%20Optimization-1d4ed8?style=flat-square" alt="Query Optimization" />
-      <br/><br/>
-      Built a scalable quiz backend and optimized Django ORM queries for **100k+ records**. The key work was reducing query load and keeping response times stable as the assessment dataset grew.<br/><br/>
-      <code>Django REST Framework</code> <code>PostgreSQL</code><br/><br/>
-      <a href="https://extrahanden.ai/">Live Site</a>
-    </td>
-  </tr>
-</table>
-
-## Experience
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Backend Developer</strong><br/>
-      <sub>JoinVentureAI</sub><br/><br/>
-      Build and maintain production APIs with Django and DRF, integrate Stripe and real-time functionality, implement OAuth2 and JWT-based authentication, and deploy applications using Docker, Nginx, and Gunicorn.
-    </td>
-    <td valign="top" width="50%">
-      <strong>Python Trainer</strong><br/>
-      <sub>Digicon Technologies PLC</sub><br/><br/>
-      Trained **180+ students** in Python, OOP, debugging, and project development, with **75%+** successfully completing a final project.
-    </td>
-  </tr>
-</table>
-
-## Contact
-
-- Portfolio: [www.roniahamed.com](https://www.roniahamed.com/)
-- GitHub: [github.com/roniahamed](https://github.com/roniahamed/)
-- LinkedIn: [linkedin.com/in/roniahamed](https://www.linkedin.com/in/roniahamed/)
-- LeetCode: [leetcode.com/roniahamed](https://leetcode.com/roniahamed/)
-- Resume: [View Resume](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)
-- Email: [mdroniahamed56@gmail.com](mailto:mdroniahamed56@gmail.com)
-
-## Call To Action
-
-If you need a backend engineer who can own APIs, integrations, performance, and deployment with production discipline, I am available for both **freelance backend work** and **backend engineering opportunities**.
+## Featured Projects
 
 <div align="center">
 
-[![Start a Project Conversation](https://img.shields.io/badge/Start%20a%20Project%20Conversation-Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdroniahamed56@gmail.com?subject=Backend%20Project%20Inquiry)
-[![Review My Resume](https://img.shields.io/badge/Review%20My-Resume-1d4ed8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13mfvHVx5nF_6z09_zrfa9XeJEAtqeYu7/view?usp=sharing)
-[![Schedule a Quick Call](https://img.shields.io/badge/Schedule%20a%20Quick%20Call-TidyCal-334155?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://tidycal.com/roniahamed/15-minute-meeting)
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### Eastmond Villas — Luxury Villa Rental Platform
+[![Live](https://img.shields.io/badge/Live-eastmondvillas.com-2ea44f?style=flat-square)](https://www.eastmondvillas.com/)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20Redis%20·%20Celery%20·%20WebSocket-7C3AED?style=flat-square)
+
+> A full-featured villa rental and sales backend with real-time booking, calendar sync, and role-based access.
+
+| What I Built | Impact |
+|---|---|
+| RBAC for Admin, Manager, Agent, Customer | Clean permission flow across all user types |
+| iCal and Google Calendar sync | Zero double-booking conflicts |
+| Async emails via Celery and AWS SES | Scalable delivery without blocking requests |
+| Full booking flow with conflict detection | Faster, error-free property management |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### CheckIn — Healthcare Patient Queue System
+![Live](https://img.shields.io/badge/Live-Private%20Deployment-0A66C2?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Internal%20Use-23B063?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20WebSocket%20·%20Celery-7C3AED?style=flat-square)
+
+> Real-time patient check-in and queue management system for clinics.
+
+| What I Built | Impact |
+|---|---|
+| Real-time queue updates via WebSocket | Clinic staff always see live status |
+| Async workflow processing with Celery | Less manual work, fewer errors |
+| Full API docs and Postman collection | Smooth team handover and easy testing |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ExtraHandenAI — AI Assessment Platform
+[![Live](https://img.shields.io/badge/Live-extrahanden.ai-2ea44f?style=flat-square)](https://extrahanden.ai/)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL-7C3AED?style=flat-square)
+
+> Scalable quiz and assessment backend handling 100,000+ records with optimized queries.
+
+| What I Built | Impact |
+|---|---|
+| Hierarchical question bank and bulk upload | Easy large-scale content management |
+| Query optimization with `select_related` and `prefetch_related` | 100k+ records handled efficiently |
+| Token-based auth with role access | Secure assessment workflows |
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+## Open Source Contributions
+
+<div align="center">
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-FF8A00?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<table>
+<tr>
+  <th>Repo</th>
+  <th>What it does</th>
+  <th>Stack</th>
+  <th>Stars</th>
+</tr>
+<tr>
+  <td><a href="https://github.com/roniahamed/Just-Save-Vid">Just-Save-Vid</a></td>
+  <td>Download HD videos from TikTok, YouTube, Facebook and Instagram without watermark</td>
+  <td>Python</td>
+  <td><img src="https://img.shields.io/github/stars/roniahamed/Just-Save-Vid?style=flat-square&color=A78BFA"/></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/roniahamed/FitCore">FitCore</a></td>
+  <td>AI-powered fitness app with personalised meal plans and premium workout videos</td>
+  <td>Django · DRF</td>
+  <td><img src="https://img.shields.io/github/stars/roniahamed/FitCore?style=flat-square&color=A78BFA"/></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/roniahamed/EduLoop">EduLoop</a></td>
+  <td>Educational platform for managing quizzes and assessments with structured content</td>
+  <td>Django</td>
+  <td><img src="https://img.shields.io/github/stars/roniahamed/EduLoop?style=flat-square&color=A78BFA"/></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/roniahamed/Furniture-Bazar">Furniture Bazar</a></td>
+  <td>Full e-commerce solution for furniture retailers with professional shopping experience</td>
+  <td>Django</td>
+  <td><img src="https://img.shields.io/github/stars/roniahamed/Furniture-Bazar?style=flat-square&color=A78BFA"/></td>
+</tr>
+</table>
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/roniahamed/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+
+</div>
+
+Solved **400+ problems** across LeetCode and Codeforces — arrays, trees, graphs, DP, and greedy. This directly shapes how I design efficient database queries and backend logic.
+
+---
+
+## Blog & Articles
+
+> I write about backend engineering, Django patterns, and lessons learned from production.
+
+<table>
+<tr>
+  <td><img src="https://img.shields.io/badge/Article-7C3AED?style=flat-square" alt="Article" /></td>
+  <td><a href="https://www.roniahamed.com">How I built a real-time booking system with Django Channels and WebSocket</a></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Article-0A66C2?style=flat-square" alt="Article" /></td>
+  <td><a href="https://www.roniahamed.com">Optimizing Django queries for 100k+ records — select_related vs prefetch_related</a></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Article-23B063?style=flat-square" alt="Article" /></td>
+  <td><a href="https://www.roniahamed.com">Deploying Django on Linux VPS with Docker, Nginx and Gunicorn — full guide</a></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Article-D14836?style=flat-square" alt="Article" /></td>
+  <td><a href="https://www.roniahamed.com">Celery and Redis in Django — async tasks the right way</a></td>
+</tr>
+</table>
+
+➡️ **More on [roniahamed.com](https://www.roniahamed.com)**
+
+---
+
+## Work Experience
+
+<table>
+<tr>
+<td>
+
+**Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
+
+- Built and deployed scalable REST APIs using Django and DRF — full lifecycle from DB design to production
+- Integrated Stripe payments, real-time WebSocket notifications, and Celery-based async processing
+- Deployed with Docker, Nginx, and Gunicorn on Linux VPS
+- Optimized queries and improved system performance in production
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
+
+- Trained **180+ students** in Python, OOP, and real-world project development
+- Designed full curriculum from scratch
+- Achieved **75%+ project completion rate**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Let's Build Together
+
+<div align="center">
+
+*Building a SaaS, booking platform, or business tool? I take it from planning to production.*
+
+<br/>
+
+[![Book a Call](https://img.shields.io/badge/Book%20a%2015min%20Call-Schedule%20Now-23B063?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://tidycal.com/roniahamed/15-minute-meeting)
+[![Email](https://img.shields.io/badge/Email-mdroniahamed56@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdroniahamed56@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roniahamed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-roniahamed.com-7C3AED?style=for-the-badge)](https://www.roniahamed.com)
+
+</div>
+
+<!-- FOOTER WAVE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</picture>
