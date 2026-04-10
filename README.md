@@ -1,5 +1,5 @@
 <!-- HEADER WAVE ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:0ea5e9&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18" alt="Header Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:334155,100:475569&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18" alt="Header Wave" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -92,48 +92,52 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Backend and Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-0A66C2?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4F46E5?style=flat-square&logo=auth0&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps and Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Integrations**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-34A853?style=flat-square&logo=googlemaps&logoColor=white)
-![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend and Frameworks</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/WebSocket-0A66C2?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket" />
+      <img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/OAuth2-4F46E5?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>DevOps and Cloud</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square" alt="Gunicorn" />
+    </td>
+    <td width="50%" colspan="2" valign="top">
+      <strong>Integrations</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+      <img src="https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
+      <img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps API" />
+      <img src="https://img.shields.io/badge/AWS%20SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SES" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -340,7 +344,4 @@ Solved **400+ problems** across LeetCode and Codeforces — arrays, trees, graph
 </div>
 
 <!-- FOOTER WAVE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:475569,100:64748b&height=120&section=footer" alt="Footer Wave" />
