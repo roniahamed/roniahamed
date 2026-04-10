@@ -92,64 +92,46 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 ## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56" />
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="56" height="56" />
-      <br/>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-      <br/>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
-      <br/>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-      <br/>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
-      <br/>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
-      <br/>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="56" height="56" />
-      <br/>REST APIs
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354200/postman-icon.svg" alt="Postman" width="48" height="48" />
-      <br/>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getgunicorn/getgunicorn-icon.svg" alt="Gunicorn" width="48" height="48" />
-      <br/>Gunicorn
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354553/websocket.svg" alt="WebSockets" width="48" height="48" />
-      <br/>WebSockets
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354252/celery.svg" alt="Celery" width="48" height="48" />
-      <br/>Celery
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
-<sub>OAuth2 • JWT • Stripe • Google Calendar API • Google Maps API • Production Deployment</sub>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend and Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-0A66C2?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4F46E5?style=flat-square&logo=auth0&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps and Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-34A853?style=flat-square&logo=googlemaps&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -157,9 +139,9 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 ## Work Experience
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td height="200" valign="top">
 
 **Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
 
@@ -171,7 +153,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 </td>
 </tr>
 <tr>
-<td>
+<td height="170" valign="top">
 
 **Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
 
@@ -187,7 +169,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
@@ -211,7 +193,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
@@ -234,7 +216,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
