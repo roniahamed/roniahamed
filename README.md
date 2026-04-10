@@ -31,14 +31,11 @@
   <tr>
     <td valign="top" width="56%">
 
-```console
-roni@backend-dev:~$ whoami
+<pre><code>roni@backend-dev:~$ whoami
 MD Roni Ahamed
-Python Backend Engineer
-```
+Python Backend Engineer</code></pre>
 
-```console
-roni@backend-dev:~$ cat backend_focus.txt
+<pre><code>roni@backend-dev:~$ cat backend_focus.txt
 Django
 Django REST Framework
 PostgreSQL
@@ -46,26 +43,23 @@ Redis
 Celery
 WebSockets
 OAuth2
-JWT
-```
+JWT</code></pre>
 
-```console
-roni@backend-dev:~$ cat deployment_stack.txt
+<pre><code>roni@backend-dev:~$ cat deployment_stack.txt
 Docker
 Nginx
 Gunicorn
 Linux VPS
 AWS
 Google Calendar API
-Google Maps API
-```
+Google Maps API</code></pre>
 
     </td>
     <td valign="top" width="44%">
 
-Backend developer focused on **production-grade APIs**, **real-time systems**, and **reliable deployment**. I work on backend problems that directly affect delivery quality: query performance, async workflows, role-based access, third-party integrations, and systems that stay maintainable in production.
+<p>Backend developer focused on <strong>production-grade APIs</strong>, <strong>real-time systems</strong>, and <strong>reliable deployment</strong>. I work on backend problems that directly affect delivery quality: query performance, async workflows, role-based access, third-party integrations, and systems that stay maintainable in production.</p>
 
-<table>
+<table width="100%">
   <tr>
     <td><img src="https://img.shields.io/badge/Building-7C3AED?style=flat-square" alt="Building" /></td>
     <td>SaaS and booking platforms with Django</td>
@@ -145,7 +139,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 <table width="100%">
 <tr>
-<td height="200" valign="top">
+<td height="220" valign="top">
 
 **Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
 
@@ -157,7 +151,7 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 </td>
 </tr>
 <tr>
-<td height="170" valign="top">
+<td height="220" valign="top">
 
 **Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
 
@@ -177,65 +171,97 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 <tr>
 <td width="100%" valign="top">
 
-### Eastmond Villas — Luxury Villa Rental Platform
-[![Live](https://img.shields.io/badge/Live-eastmondvillas.com-2ea44f?style=flat-square)](https://www.eastmondvillas.com/)
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20Redis%20·%20Celery%20·%20WebSocket-7C3AED?style=flat-square)
+<h3>Eastmond Villas — Luxury Villa Rental Platform</h3>
+<a href="https://www.eastmondvillas.com/"><img src="https://img.shields.io/badge/Live-eastmondvillas.com-2ea44f?style=flat-square" alt="Live" /></a>
+<img src="https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20Redis%20·%20Celery%20·%20WebSocket-7C3AED?style=flat-square" alt="Stack" />
 
-> A full-featured villa rental and sales backend with real-time booking, calendar sync, and role-based access.
+<p>A full-featured villa rental and sales backend with real-time booking, calendar sync, and role-based access.</p>
 
-| What I Built | Impact |
-|---|---|
-| RBAC for Admin, Manager, Agent, Customer | Clean permission flow across all user types |
-| iCal and Google Calendar sync | Zero double-booking conflicts |
-| Async emails via Celery and AWS SES | Scalable delivery without blocking requests |
-| Full booking flow with conflict detection | Faster, error-free property management |
+<table width="100%">
+  <tr>
+    <th align="left">What I Built</th>
+    <th align="left">Impact</th>
+  </tr>
+  <tr>
+    <td>RBAC for Admin, Manager, Agent, Customer</td>
+    <td>Clean permission flow across all user types</td>
+  </tr>
+  <tr>
+    <td>iCal and Google Calendar sync</td>
+    <td>Zero double-booking conflicts</td>
+  </tr>
+  <tr>
+    <td>Async emails via Celery and AWS SES</td>
+    <td>Scalable delivery without blocking requests</td>
+  </tr>
+  <tr>
+    <td>Full booking flow with conflict detection</td>
+    <td>Faster, error-free property management</td>
+  </tr>
+</table>
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
-### CheckIn — Healthcare Patient Queue System
-![Live](https://img.shields.io/badge/Live-Private%20Deployment-0A66C2?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Internal%20Use-23B063?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20WebSocket%20·%20Celery-7C3AED?style=flat-square)
+<h3>CheckIn — Healthcare Patient Queue System</h3>
+<img src="https://img.shields.io/badge/Live-Private%20Deployment-0A66C2?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/Status-Internal%20Use-23B063?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL%20·%20WebSocket%20·%20Celery-7C3AED?style=flat-square" alt="Stack" />
 
-> Real-time patient check-in and queue management system for clinics.
+<p>Real-time patient check-in and queue management system for clinics.</p>
 
-| What I Built | Impact |
-|---|---|
-| Real-time queue updates via WebSocket | Clinic staff always see live status |
-| Async workflow processing with Celery | Less manual work, fewer errors |
-| Full API docs and Postman collection | Smooth team handover and easy testing |
+<table width="100%">
+  <tr>
+    <th align="left">What I Built</th>
+    <th align="left">Impact</th>
+  </tr>
+  <tr>
+    <td>Real-time queue updates via WebSocket</td>
+    <td>Clinic staff always see live status</td>
+  </tr>
+  <tr>
+    <td>Async workflow processing with Celery</td>
+    <td>Less manual work, fewer errors</td>
+  </tr>
+  <tr>
+    <td>Full API docs and Postman collection</td>
+    <td>Smooth team handover and easy testing</td>
+  </tr>
+</table>
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
-### ExtraHandenAI — AI Assessment Platform
-[![Live](https://img.shields.io/badge/Live-extrahanden.ai-2ea44f?style=flat-square)](https://extrahanden.ai/)
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL-7C3AED?style=flat-square)
+<h3>ExtraHandenAI — AI Assessment Platform</h3>
+<a href="https://extrahanden.ai/"><img src="https://img.shields.io/badge/Live-extrahanden.ai-2ea44f?style=flat-square" alt="Live" /></a>
+<img src="https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Stack-DRF%20·%20PostgreSQL-7C3AED?style=flat-square" alt="Stack" />
 
-> Scalable quiz and assessment backend handling 100,000+ records with optimized queries.
+<p>Scalable quiz and assessment backend handling 100,000+ records with optimized queries.</p>
 
-| What I Built | Impact |
-|---|---|
-| Hierarchical question bank and bulk upload | Easy large-scale content management |
-| Query optimization with `select_related` and `prefetch_related` | 100k+ records handled efficiently |
-| Token-based auth with role access | Secure assessment workflows |
+<table width="100%">
+  <tr>
+    <th align="left">What I Built</th>
+    <th align="left">Impact</th>
+  </tr>
+  <tr>
+    <td>Hierarchical question bank and bulk upload</td>
+    <td>Easy large-scale content management</td>
+  </tr>
+  <tr>
+    <td>Query optimization with <code>select_related</code> and <code>prefetch_related</code></td>
+    <td>100k+ records handled efficiently</td>
+  </tr>
+  <tr>
+    <td>Token-based auth with role access</td>
+    <td>Secure assessment workflows</td>
+  </tr>
+</table>
 
 </td>
 </tr>
