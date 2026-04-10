@@ -1,8 +1,5 @@
 <!-- HEADER WAVE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:0ea5e9&height=200&section=header&text=Roni%20Ahamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18" alt="Header Wave" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -32,38 +29,39 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="52%">
+    <td valign="top" width="56%">
 
 ```console
-┌──(roni@backend-dev)-[~]
-└─$ whoami
+roni@backend-dev:~$ whoami
 MD Roni Ahamed
 Python Backend Engineer
+```
 
-┌──(roni@backend-dev)-[~]
-└─$ cat experience.txt
-1.5+ years in production systems
-
-┌──(roni@backend-dev)-[~]
-└─$ cat focus.txt
+```console
+roni@backend-dev:~$ cat backend_focus.txt
 Django
-DRF
+Django REST Framework
 PostgreSQL
 Redis
 Celery
 WebSockets
+OAuth2
+JWT
+```
 
-┌──(roni@backend-dev)-[~]
-└─$ cat deployment.txt
+```console
+roni@backend-dev:~$ cat deployment_stack.txt
 Docker
 Nginx
 Gunicorn
 Linux VPS
 AWS
+Google Calendar API
+Google Maps API
 ```
 
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="44%">
 
 Backend developer focused on **production-grade APIs**, **real-time systems**, and **reliable deployment**. I work on backend problems that directly affect delivery quality: query performance, async workflows, role-based access, third-party integrations, and systems that stay maintainable in production.
 
@@ -94,54 +92,100 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 
 ## Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56" />
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="56" height="56" />
+      <br/>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" height="48" />
+      <br/>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+      <br/>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+      <br/>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+      <br/>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="56" height="56" />
+      <br/>REST APIs
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354200/postman-icon.svg" alt="Postman" width="48" height="48" />
+      <br/>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getgunicorn/getgunicorn-icon.svg" alt="Gunicorn" width="48" height="48" />
+      <br/>Gunicorn
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354553/websocket.svg" alt="WebSockets" width="48" height="48" />
+      <br/>WebSockets
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354252/celery.svg" alt="Celery" width="48" height="48" />
+      <br/>Celery
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Backend and Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-0A66C2?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4F46E5?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps and Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Integrations**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
-![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<sub>OAuth2 • JWT • Stripe • Google Calendar API • Google Maps API • Production Deployment</sub>
 
 </div>
 
 ---
 
-## Featured Projects
+## Work Experience
 
-<div align="center">
+<table>
+<tr>
+<td>
+
+**Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
+
+- Built and deployed scalable REST APIs using Django and DRF — full lifecycle from DB design to production
+- Integrated Stripe payments, real-time WebSocket notifications, and Celery-based async processing
+- Deployed with Docker, Nginx, and Gunicorn on Linux VPS
+- Optimized queries and improved system performance in production
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
+
+- Trained **180+ students** in Python, OOP, and real-world project development
+- Designed full curriculum from scratch
+- Achieved **75%+ project completion rate**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
@@ -211,8 +255,6 @@ Backend developer focused on **production-grade APIs**, **real-time systems**, a
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## Open Source Contributions
@@ -271,6 +313,7 @@ Solved **400+ problems** across LeetCode and Codeforces — arrays, trees, graph
 
 ---
 
+<!--
 ## Blog & Articles
 
 > I write about backend engineering, Django patterns, and lessons learned from production.
@@ -295,36 +338,7 @@ Solved **400+ problems** across LeetCode and Codeforces — arrays, trees, graph
 </table>
 
 ➡️ **More on [roniahamed.com](https://www.roniahamed.com)**
-
----
-
-## Work Experience
-
-<table>
-<tr>
-<td>
-
-**Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
-
-- Built and deployed scalable REST APIs using Django and DRF — full lifecycle from DB design to production
-- Integrated Stripe payments, real-time WebSocket notifications, and Celery-based async processing
-- Deployed with Docker, Nginx, and Gunicorn on Linux VPS
-- Optimized queries and improved system performance in production
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
-
-- Trained **180+ students** in Python, OOP, and real-world project development
-- Designed full curriculum from scratch
-- Achieved **75%+ project completion rate**
-
-</td>
-</tr>
-</table>
+-->
 
 ---
 
