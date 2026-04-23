@@ -297,12 +297,6 @@ Google Maps API</code></pre>
   <td><img src="https://img.shields.io/github/stars/roniahamed/FitCore?style=flat-square&color=A78BFA"/></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/roniahamed/EduLoop">EduLoop</a></td>
-  <td>Educational platform for managing quizzes and assessments with structured content</td>
-  <td>Django</td>
-  <td><img src="https://img.shields.io/github/stars/roniahamed/EduLoop?style=flat-square&color=A78BFA"/></td>
-</tr>
-<tr>
   <td><a href="https://github.com/roniahamed/Furniture-Bazar">Furniture Bazar</a></td>
   <td>Full e-commerce solution for furniture retailers with professional shopping experience</td>
   <td>Django</td>
