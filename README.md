@@ -26,16 +26,20 @@
 ---
 
 ## About Me
+## About Me
 
 <table width="100%">
   <tr>
-    <td valign="top" width="56%">
+    <td valign="top">
 
-<pre><code>roni@backend-dev:~$ whoami
+```console
+roni@backend-dev:~$ whoami
 MD Roni Ahamed
-Python Backend Engineer</code></pre>
+Python Backend Engineer
+```
 
-<pre><code>roni@backend-dev:~$ cat backend_focus.txt
+```console
+roni@backend-dev:~$ cat backend_focus.txt
 Django
 Django REST Framework
 PostgreSQL
@@ -43,45 +47,61 @@ Redis
 Celery
 WebSockets
 OAuth2
-JWT</code></pre>
+JWT
+```
 
-<pre><code>roni@backend-dev:~$ cat deployment_stack.txt
+```console
+roni@backend-dev:~$ cat deployment_stack.txt
 Docker
 Nginx
 Gunicorn
 Linux VPS
 AWS
 Google Calendar API
-Google Maps API</code></pre>
+Google Maps API
+```
 
-    </td>
-    <td valign="top" width="44%">
+<p>
+Backend developer focused on <strong>production-grade APIs</strong>,
+<strong>real-time systems</strong>, and <strong>reliable deployment</strong>.
+I work on backend problems that directly affect delivery quality:
+query performance, async workflows, role-based access,
+third-party integrations, and systems that stay maintainable in production.
+</p>
 
-<p>Backend developer focused on <strong>production-grade APIs</strong>, <strong>real-time systems</strong>, and <strong>reliable deployment</strong>. I work on backend problems that directly affect delivery quality: query performance, async workflows, role-based access, third-party integrations, and systems that stay maintainable in production.</p>
-
-<table width="100%">
+<table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Building-7C3AED?style=flat-square" alt="Building" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Building-7C3AED?style=flat-square" />
+    </td>
     <td>SaaS and booking platforms with Django</td>
   </tr>
+
   <tr>
-    <td><img src="https://img.shields.io/badge/Strength-0A66C2?style=flat-square" alt="Strength" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Strength-0A66C2?style=flat-square" />
+    </td>
     <td>System design, async architecture, deployment</td>
   </tr>
+
   <tr>
-    <td><img src="https://img.shields.io/badge/Core-23B063?style=flat-square" alt="Core" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Core-23B063?style=flat-square" />
+    </td>
     <td>Django, DRF, PostgreSQL, WebSockets, Celery, Docker</td>
   </tr>
+
   <tr>
-    <td><img src="https://img.shields.io/badge/Track%20Record-D14836?style=flat-square" alt="Track Record" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Track%20Record-D14836?style=flat-square" />
+    </td>
     <td>Trained 180+ students before moving full-time into backend engineering</td>
   </tr>
 </table>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
 ---
 
 ## Tech Stack
