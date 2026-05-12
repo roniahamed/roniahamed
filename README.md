@@ -178,7 +178,6 @@ third-party integrations, and systems that stay maintainable in production.
 
 </div>
 
-
 ---
 
 ## Featured Projects
