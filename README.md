@@ -154,34 +154,30 @@ third-party integrations, and systems that stay maintainable in production.
 </table>
 
 ---
-
 ## Work Experience
 
-<table width="100%">
-<tr>
-<td height="220" valign="top">
+<div align="left">
 
-**Backend Developer — JoinVentureAI** &nbsp; `Jan 2025 – Mar 2026`
+### Backend Developer — JoinVentureAI
+`Jan 2025 – Present`
 
-- Built and deployed scalable REST APIs using Django and DRF — full lifecycle from DB design to production
+- Built and deployed scalable REST APIs using Django and DRF — full lifecycle from database design to production
 - Integrated Stripe payments, real-time WebSocket notifications, and Celery-based async processing
-- Deployed with Docker, Nginx, and Gunicorn on Linux VPS
-- Optimized queries and improved system performance in production
+- Deployed applications with Docker, Nginx, and Gunicorn on Linux VPS
+- Optimized database queries and improved production system performance
 
-</td>
-</tr>
-<tr>
-<td height="220" valign="top">
+---
 
-**Python Trainer — Digicon Technologies PLC** &nbsp; `Feb 2024 – Sep 2024`
+### Python Trainer — Digicon Technologies PLC
+`Feb 2024 – Sep 2024`
 
 - Trained **180+ students** in Python, OOP, and real-world project development
-- Designed full curriculum from scratch
+- Designed complete training curriculum from scratch
 - Achieved **75%+ project completion rate**
+- Mentored students on backend development fundamentals and problem-solving
 
-</td>
-</tr>
-</table>
+</div>
+
 
 ---
 
