@@ -40,14 +40,8 @@ Python Backend Engineer
 
 ```console
 roni@backend-dev:~$ cat backend_focus.txt
-Django
-Django REST Framework
-PostgreSQL
-Redis
-Celery
-WebSockets
-OAuth2
-JWT
+Django, Django REST Framework, PostgreSQL
+Redis, Celery, WebSockets, OAuth2, JWT
 ```
 
 ```console
