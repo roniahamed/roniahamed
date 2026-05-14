@@ -46,13 +46,8 @@ Redis, Celery, WebSockets, OAuth2, JWT
 
 ```console
 roni@backend-dev:~$ cat deployment_stack.txt
-Docker
-Nginx
-Gunicorn
-Linux VPS
-AWS
-Google Calendar API
-Google Maps API
+Docker, Nginx, Gunicorn, Linux VPS,AWS
+Google Calendar API,Google Maps API
 ```
 
 <p>
