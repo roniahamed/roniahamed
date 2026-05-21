@@ -148,7 +148,7 @@ third-party integrations, and systems that stay maintainable in production.
 <div align="left">
 
 ### Backend Developer — JoinVentureAI
-`Jan 2025 – Present`
+`Aug 2025 – Present`
 
 - Built and deployed scalable REST APIs using Django and DRF — full lifecycle from database design to production
 - Integrated Stripe payments, real-time WebSocket notifications, and Celery-based async processing
